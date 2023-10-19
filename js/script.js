@@ -8,3 +8,10 @@ console.log("Resultado de la resta:", numero1 - numero2);
 console.log("Resultado de la multiplicación:", numero1 * numero2);
 console.log("Resultado de la división:", numero1 / numero2);
 
+// EJERCICIO 2 - CONCATENACIÓN DE CADENAS 
+
+let nombre = 'Martín';
+let apellido = 'Cornejo';
+let nombreCompleto = nombre + " " + apellido;
+
+console.log(nombreCompleto);
